@@ -127,7 +127,7 @@ let questions = [
     ),
     // 6
     new Question(
-        "Em uma aposta entre dois sócios da numera, a pessoa que perdeu a aposta teve que se vestir de coelho. Quem perdeu essa aposta?",
+        "Em uma aposta entre dois sócios da numera, a pessoa que perdeu a aposta teve que se vestir de porquinho. Quem perdeu essa aposta?",
         ["Giovani", "Guilherme", "Rianny", "Thiago Melo"],
         "Giovani"
     ),
