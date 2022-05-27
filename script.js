@@ -155,6 +155,12 @@ let questions = [
         ["Teorema de Bayes", "Viés de sobrevivência", "Paradoxo de Simpson", "Eficiência-X"],
         "Teorema de Bayes"
     ),
+    // 11
+    new Question(
+        "Quantos comentários tem o post no instagram da numera com maior número de comentários?",
+        ["9", "18", "38", "67"],
+        "67"
+    ),
 
 
 ];
